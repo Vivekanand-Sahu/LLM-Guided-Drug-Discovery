@@ -41,6 +41,44 @@ Applying this mechanism, we can build a framework to for any particular disease.
 
 ![Experiments](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/files/Screenshot%202025-02-28%20at%2010.12.31%E2%80%AFPM.png)
 
+
+### Steps
+1. Clone the basic Geneformer repository:
+
+    ```bash
+git lfs install
+git clone https://huggingface.co/ctheodoris/Geneformer
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd LLM-Guided-Drug-Discovery
+    ```
+
+3. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+1. Load your dataset (format: `arrow`, `h5ad`, etc.).
+2. Run the model with the following command:
+
+    ```bash
+    python training.py --input_file your_dataset.csv --output_file results.csv
+    ```
+
+3. Use the following example for invoking the custom features:
+
+    ```bash
+    python in_silico_perturbation.py --dataset your_dataset.csv --feature method_1/2/3
+    ```
+
+
+
 # Results
 
 ## Confusion matrix
