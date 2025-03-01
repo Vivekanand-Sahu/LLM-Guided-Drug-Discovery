@@ -8,7 +8,7 @@ Whenever a person is affected by a disease, one or more of the 25k genes start b
 To cure the disease, we need to find the correct set of abnormal genes and treat it using the corresponding chemical drugs.
 
 But to find the correct genes out of 25k genes takes 4-7 years of time. 
-Also, if the correct genes is not filtered in the initial steps, the drugs does not show efficacy in the clinical trials. This arise the need of a fast and measurable gene selection method. 
+Also, if the correct genes is not filtered in the initial steps, the drugs does not show efficacy in the clinical trials. This arise the need of a fast and measurable gene selection method. 
 
 ![Purpose](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/files/Screenshot%202025-02-28%20at%2010.11.54%E2%80%AFPM.png)
 
