@@ -42,14 +42,23 @@ Applying this mechanism, we can build a framework to for any particular disease.
 ![Experiments](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/files/Screenshot%202025-02-28%20at%2010.12.31%E2%80%AFPM.png)
 
 # Results
+
+## Confusion matrix
 <img src="https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.19.37%E2%80%AFPM.png" width="500"/>
+
+## AUC-ROC
 
 <img src="https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.19.54%E2%80%AFPM.png" width="500"/>
 
+## UMAP
+
 <img src="https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.20.54%E2%80%AFPM.png" width="600"/>
 
-<img width="492" alt="image" src="https://github.com/user-attachments/assets/88897d60-73f7-4468-9010-e6ad55b01b9a" />
+## Perturbation Experiment on different genes
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/88897d60-73f7-4468-9010-e6ad55b01b9a" />
+
+## Business impact
 
 ![Business-impact](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.14.39%E2%80%AFPM.png)
 
