@@ -46,8 +46,8 @@ Applying this mechanism, we can build a framework to for any particular disease.
 1. Clone the basic Geneformer repository:
 
     ```bash
-git lfs install
-git clone https://huggingface.co/ctheodoris/Geneformer
+    git lfs install
+    git clone https://huggingface.co/ctheodoris/Geneformer
     ```
 
 2. Navigate to the project directory:
