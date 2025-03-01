@@ -45,7 +45,7 @@ Applying this mechanism, we can build a framework to for any particular disease.
 ![Experiments](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/files/Screenshot%202025-02-28%20at%2010.12.31%E2%80%AFPM.png)
 
 
-### Steps
+# Steps
 1. Clone the basic Geneformer repository:
 
     ```bash
