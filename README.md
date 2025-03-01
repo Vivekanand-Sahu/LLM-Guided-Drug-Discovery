@@ -48,7 +48,7 @@ Applying this mechanism, we can build a framework to for any particular disease.
 
 <img src="https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.20.54%E2%80%AFPM.png" width="600"/>
 
-<img width="548" alt="image" src="https://github.com/user-attachments/assets/b8b1e876-c62c-4a8e-a4e3-9ab7e0317b23" />
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/88897d60-73f7-4468-9010-e6ad55b01b9a" />
 
 
 ![Business-impact](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.14.39%E2%80%AFPM.png)
