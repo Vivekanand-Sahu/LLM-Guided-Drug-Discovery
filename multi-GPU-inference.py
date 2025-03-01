@@ -4,7 +4,7 @@
 # set the following parameters #########
 gpu_list = [2,3,4,5,6,7]  # Adjust this to the number of GPUs you have
 
-dataset="/data-hpcwn-pnl03/FXG/Geneformer_archive/Data/Tokenized_dataset/output_tokenize_balanced_scz_dataset_upsample_all_scz_indv_no_add_features.dataset"  # tokenized data
+dataset="/Data/Tokenized_dataset/output_tokenize_balanced_scz_dataset_upsample_all_scz_indv_no_add_features.dataset"  # tokenized data
 
 model_directory = ''
 
