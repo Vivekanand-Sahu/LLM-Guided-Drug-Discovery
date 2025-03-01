@@ -3,6 +3,7 @@
 ## Overview
 Use of LLM model to identify the drug discovery. 
 
+# Purpose
 Human body is made of cells and cells consists of many genes. 
 Whenever a person is affected by a disease, one or more of the 25k genes start behaving abnormally. 
 To cure the disease, we need to find the correct set of abnormal genes and treat it using the corresponding chemical drugs.
@@ -12,6 +13,7 @@ Also, if the correct genes is not filtered in the initial steps, the drugs does 
 
 ![Purpose](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/files/Screenshot%202025-02-28%20at%2010.11.54%E2%80%AFPM.png)
 
+# Process
 We can start with training the LLM model on a huge dataset consisting of cells from all the parts of the body. 
 Then we can fine tune the LLM model to specialize on the disease for which we want to find a drug. 
 For example, If we want to find the drug for Schizophrenia disease, Since I know that it is a brain disease. I will fine tune my model only on brain cells data.
