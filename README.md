@@ -32,8 +32,7 @@ Here, is the functioning of the Fine Tuned Geneformer model. For every cell give
 These are high-dimensional vector representations of the cells that encapsulate essential gene features and relationships within the data. These embeddings are crucial for accurate cell classification and further analysis.
 
 ![training](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/files/Screenshot%202025-02-28%20at%2010.14.29%E2%80%AFPM.png)
-In-silico gene perturbation allows us to simulate the effects of a dose on a gene and see it s corresponding effect on the disease state.
-For example, if we delete gene 3 in a cell initially classified as healthy and this causes the cell to shift to a diseased state, it suggests that gene 3 plays a role in maintaining health and we can have a drug that will reduce the effect of gene 3. 
+In-silico gene perturbation allows us to simulate the effects of a dose on a gene and see it s corresponding effect on the disease state.For example, if we delete gene 3 in a cell initially classified as healthy and this causes the cell to shift to a diseased state, it suggests that gene 3 plays a role in maintaining health and we can have a drug that will reduce the effect of gene 3. 
 Conversely, if we overexpress gene 4 in a cell initially classified as diseased and this causes the cell to shift to a healthy state, it implies that having a drug that can enhance this gene activity could cure the disease. 
 
 
