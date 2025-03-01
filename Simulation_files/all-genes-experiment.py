@@ -89,3 +89,8 @@ def perturb_genes(gene_pert_list):
 
             
 
+# Perturbing the genes from the list of genes 1 at a time
+perturb_genes(['CHRM4', 'DRD2', 'HTR2A', 'GPR88', 'KCNC1', 'GPR158', 'CHRM1', 'DRD3', 'TCF4'])
+
+# Perturbing all the genes 1 at a time
+#perturb_genes(gene_dict.keys())
