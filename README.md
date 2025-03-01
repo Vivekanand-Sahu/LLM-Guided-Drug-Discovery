@@ -16,7 +16,7 @@ Use of Bert Based LLM model to identify the drug discovery.
 
 <img src="https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.19.54%E2%80%AFPM.png" width="600"/>
 
-<img src="https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.20.54%E2%80%AFPM.png" width="800"/>
+<img src="https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.20.54%E2%80%AFPM.png" width="600"/>
 
 ![Business-impact](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/Results/Screenshot%202025-02-28%20at%2010.14.39%E2%80%AFPM.png)
 
