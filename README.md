@@ -106,8 +106,8 @@ Applying this mechanism, we can build a framework to for any particular disease.
 
 ## Contact
 ```markdown
-I am reachable via email at [vivekanandsahums@gmail.com], or
-on [LinkedIn](https://www.linkedin.com/in/vivekanand-sahu/).
+I am reachable via email at vivekanandsahums@gmail.com, or
+on https://www.linkedin.com/in/vivekanand-sahu/.
 
 Feel free to reach out if you'd like to collaborate or need any help. I'm happy to assist and explore potential collaborations!
 ```
