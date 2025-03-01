@@ -130,3 +130,7 @@ sc.pl.umap(splatter2, color=['orig.ident'], show=True)
 splatter2 = adata[adata.obs["condition"].isin(["Scz"])]
 
 sc.pl.umap(splatter2, color=['orig.ident'], show=True)
+
+
+# --------------------------------------------------------------------------------------------------
+
