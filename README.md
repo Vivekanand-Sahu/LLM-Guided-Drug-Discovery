@@ -29,7 +29,7 @@ Similarly, we can train a LLM model to learn the cell sequences consisting of ge
 
 ![Pretraining](https://github.com/Vivekanand-Sahu/LLM-Guided-Drug-Discovery/blob/main/files/Screenshot%202025-02-28%20at%2010.12.18%E2%80%AFPM.png)
 
-## training
+## Fine-Tuning
 Here, is the functioning of the Fine Tuned Geneformer model. For every cell given as an input to the fine-tuned Geneformer, we obtain task-specific cell embeddings. 
 These are high-dimensional vector representations of the cells that encapsulate essential gene features and relationships within the data. These embeddings are crucial for accurate cell classification and further analysis.
 
