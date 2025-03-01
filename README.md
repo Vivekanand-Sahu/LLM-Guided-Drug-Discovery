@@ -93,7 +93,7 @@ Applying this mechanism, we can build a framework to for any particular disease.
 
 ## Perturbation Experiment on different genes
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/88897d60-73f7-4468-9010-e6ad55b01b9a" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/88897d60-73f7-4468-9010-e6ad55b01b9a" />
 
 ## Business impact
 
